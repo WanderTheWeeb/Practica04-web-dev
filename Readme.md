@@ -2,23 +2,6 @@
 
 Este proyecto contiene una colección de ejercicios prácticos desarrollados en HTML, CSS y JavaScript. Cada ejercicio está organizado en una carpeta específica y accesible desde una página principal (`index.html`). La página principal incluye un dise``o limpio y sencillo basado en Bootstrap para facilitar la navegación entre los ejercicios.
 
-## Estructura del Proyecto
-
-El proyecto está organizado de la siguiente manera:
-
-``
-├── index.html        # Página principal para acceder a los ejercicios
-├── ejercicio01/
-│   └── ejercicio01.html
-├── ejercicio02/
-│   └── ejercicio02.html
-├── ejercicio03/
-│   └── ejercicio03.html
-...
-├── ejercicio12/
-│   └── ejercicio12.html
-``
-
 Cada carpeta contiene un archivo `ejercicioXX.html` que implementa un ejercicio específico.
 
 ## Requisitos
