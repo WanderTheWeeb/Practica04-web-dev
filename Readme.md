@@ -37,10 +37,6 @@ Si deseas agregar más ejercicios:
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, siéntete libre de abrir un issue o enviar un pull request.
 
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](LICENSE).
-
 ---
 
 ¡Gracias por visitar este proyecto! 😊
